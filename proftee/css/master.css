@@ -1,0 +1,21 @@
+div#myCarousel img{
+  height: calc(100vh - 56px) !important;
+}
+
+body{
+  font-family: 'Lucida Grande', 'Trebuchet MS', 'Verdana';
+  background-color: black;
+}
+
+.nav-item:hover{
+  font-size: 120%;
+}
+
+div.carousel-caption{
+  background: black !important;
+  /* color: black; */
+  opacity: 0.6;
+  border: 1px solid grey;
+  border-radius: 10px;
+  padding: 10px;
+}
